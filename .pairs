@@ -1,0 +1,7 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  # <initials>: <Firstname> <Lastname>[; <email-id>]
+  jc: Jitendra Chopra; jitendra.chopra
+email:
+  prefix: pair
+#global: true

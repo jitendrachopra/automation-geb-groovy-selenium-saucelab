@@ -1,0 +1,19 @@
+url:
+    qa: http://gebish.org
+    prod: http://gebish.org
+chrome:
+    version: 43
+    platform: MAC
+    resolution: 1028X1024
+firefox:
+    version: 43
+    platform: MAC
+    resolution: 1028X1024
+safari:
+    version: 43
+    platform: MAC
+    resolution: 1028X1024
+ie:
+    version: 43
+    platform: MAC
+    resolution: 1028X1024

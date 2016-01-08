@@ -1,0 +1,12 @@
+language: groovy
+
+branches:
+  only:
+   - master
+
+before_script:
+ - chmod +x gradlew
+ - chmod +x travisBuild.sh
+
+script:
+    - ./travisBuild.sh
